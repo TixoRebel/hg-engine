@@ -937,7 +937,7 @@ trainerdata 30, "Whitney"
         level 17
         pokemon SPECIES_CLEFAIRY
         item ITEM_NONE
-        move MOVE_DOUBLE_SLAP
+        move MOVE_DISARMING_VOICE
         move MOVE_MIMIC
         move MOVE_ENCORE
         move MOVE_METRONOME
@@ -5638,7 +5638,7 @@ trainerdata 183, "Alice"
         pokemon SPECIES_GLOOM
         move MOVE_TOXIC
         move MOVE_SLUDGE_BOMB
-        move MOVE_SWEET_SCENT
+        move MOVE_MOONLIGHT
         move MOVE_DRAIN_PUNCH
         ballseal 0
 
@@ -5661,7 +5661,7 @@ trainerdata 183, "Alice"
         move MOVE_TOXIC
         move MOVE_SLUDGE_BOMB
         move MOVE_ATTRACT
-        move MOVE_DRAIN_PUNCH
+        move MOVE_MOONBLAST
         ballseal 0
     endparty
 
@@ -7690,7 +7690,7 @@ trainerdata 246, "Karen"
         pokemon SPECIES_VILEPLUME
         item ITEM_NONE
         move MOVE_STUN_SPORE
-        move MOVE_ACID
+        move MOVE_MOONBLAST
         move MOVE_MOONLIGHT
         move MOVE_PETAL_DANCE
         ballseal 0
@@ -8354,7 +8354,7 @@ trainerdata 258, "Sabrina"
         item ITEM_NONE
         move MOVE_MIMIC
         move MOVE_LIGHT_SCREEN
-        move MOVE_SKILL_SWAP
+        move MOVE_DAZZLING_GLEAM
         move MOVE_PSYCHIC
         ballseal 0
 
@@ -11138,7 +11138,7 @@ trainerdata 326, "Jo & Zoe"
         pokemon SPECIES_VILEPLUME
         move MOVE_GIGA_DRAIN
         move MOVE_STUN_SPORE
-        move MOVE_DRAIN_PUNCH
+        move MOVE_MOONBLAST
         move MOVE_ATTRACT
         ballseal 0
     endparty
@@ -13498,7 +13498,7 @@ trainerdata 402, "Tiffany"
         pokemon SPECIES_CLEFAIRY
         move MOVE_ENCORE
         move MOVE_SING
-        move MOVE_DOUBLE_SLAP
+        move MOVE_DISARMING_VOICE
         move MOVE_MINIMIZE
         ballseal 0
     endparty
@@ -13947,7 +13947,7 @@ trainerdata 416, "Jo & Zoe"
         pokemon SPECIES_VILEPLUME
         move MOVE_GIGA_DRAIN
         move MOVE_STUN_SPORE
-        move MOVE_DRAIN_PUNCH
+        move MOVE_MOONBLAST
         move MOVE_ATTRACT
         ballseal 0
 
@@ -16985,7 +16985,7 @@ trainerdata 503, "Jack"
         move MOVE_EXTREME_SPEED
         move MOVE_FLAMETHROWER
         move MOVE_CRUNCH
-        move MOVE_REVERSAL
+        move MOVE_PLAY_ROUGH
         ballseal 0
     endparty
 
@@ -17154,7 +17154,7 @@ trainerdata 507, "Chad"
         abilityslot 0
         level 46
         pokemon SPECIES_MR_MIME
-        move MOVE_BATON_PASS
+        move MOVE_DAZZLING_GLEAM
         move MOVE_DOUBLE_TEAM
         move MOVE_LIGHT_SCREEN
         move MOVE_PSYCHIC
@@ -19491,7 +19491,7 @@ trainerdata 580, "Pedro"
         item ITEM_SITRUS_BERRY
         move MOVE_BELLY_DRUM
         move MOVE_SLASH
-        move MOVE_DIG
+        move MOVE_PLAY_ROUGH
         move MOVE_SURF
         ballseal 0
     endparty
@@ -19819,7 +19819,7 @@ trainerdata 592, "Chelan"
         move MOVE_WATERFALL
         move MOVE_ROLLOUT
         move MOVE_DEFENSE_CURL
-        move MOVE_DIG
+        move MOVE_PLAY_ROUGH
         ballseal 0
     endparty
 
@@ -20283,7 +20283,7 @@ trainerdata 607, "Reena"
         move MOVE_FLARE_BLITZ
         move MOVE_EXTREME_SPEED
         move MOVE_CRUNCH
-        move MOVE_ROAR
+        move MOVE_PLAY_ROUGH
         ballseal 0
 
         // mon 1
@@ -21363,7 +21363,7 @@ trainerdata 642, "Billy"
         move MOVE_TRICK_ROOM
         move MOVE_PSYCHIC
         move MOVE_SUBSTITUTE
-        move MOVE_NONE
+        move MOVE_DAZZLING_GLEAM
         ballseal 0
 
         // mon 1
@@ -22490,7 +22490,7 @@ trainerdata 669, "Mira"
         level 63
         pokemon SPECIES_TOGEKISS
         item ITEM_NONE
-        move MOVE_EXTREME_SPEED
+        move MOVE_MOONBLAST
         move MOVE_AIR_SLASH
         move MOVE_AURA_SPHERE
         move MOVE_PSYCHIC
@@ -22803,7 +22803,7 @@ trainerdata 677, "Eddie"
         abilityslot 32
         level 48
         pokemon SPECIES_AZUMARILL
-        move MOVE_WATER_PULSE
+        move MOVE_PLAY_ROUGH
         move MOVE_AQUA_RING
         move MOVE_DOUBLE_EDGE
         move MOVE_AQUA_TAIL
@@ -22853,7 +22853,7 @@ trainerdata 679, "Callie"
         abilityslot 0
         level 16
         pokemon SPECIES_CLEFABLE
-        move MOVE_GROWL
+        move MOVE_DISARMING_VOICE
         move MOVE_ENCORE
         move MOVE_DOUBLE_SLAP
         move MOVE_METRONOME
@@ -22900,7 +22900,7 @@ trainerdata 680, "Kassandra"
         abilityslot 0
         level 16
         pokemon SPECIES_CLEFABLE
-        move MOVE_GROWL
+        move MOVE_DISARMING_VOICE
         move MOVE_ENCORE
         move MOVE_DOUBLE_SLAP
         move MOVE_METRONOME
@@ -23049,7 +23049,7 @@ trainerdata 684, "Elan & Ida"
         pokemon SPECIES_AZUMARILL
         item ITEM_NONE
         move MOVE_WATERFALL
-        move MOVE_AQUA_JET
+        move MOVE_PLAY_ROUGH
         move MOVE_SUPERPOWER
         move MOVE_ATTRACT
         ballseal 0
@@ -23580,7 +23580,7 @@ trainerdata 701, "Lance"
         item ITEM_NONE
         move MOVE_PERISH_SONG
         move MOVE_DRAGON_BREATH
-        move MOVE_DOUBLE_TEAM
+        move MOVE_MOONBLAST
         move MOVE_HYPER_BEAM
         ballseal 0
 
@@ -23677,7 +23677,7 @@ trainerdata 702, "Will"
         pokemon SPECIES_GARDEVOIR
         item ITEM_NONE
         move MOVE_FOCUS_BLAST
-        move MOVE_CHARGE_BEAM
+        move MOVE_MOONBLAST
         move MOVE_CALM_MIND
         move MOVE_PSYCHIC
         ballseal 0
@@ -24333,7 +24333,7 @@ trainerdata 714, "Whitney"
         level 52
         pokemon SPECIES_CLEFABLE
         item ITEM_NONE
-        move MOVE_BLIZZARD
+        move MOVE_MOONBLAST
         move MOVE_THUNDER
         move MOVE_FIRE_BLAST
         move MOVE_CALM_MIND
@@ -25256,7 +25256,7 @@ trainerdata 725, "Sabrina"
         pokemon SPECIES_MR_MIME
         item ITEM_NONE
         move MOVE_REFLECT
-        move MOVE_SKILL_SWAP
+        move MOVE_DAZZLING_GLEAM
         move MOVE_THUNDER
         move MOVE_PSYCHIC
         ballseal 0
