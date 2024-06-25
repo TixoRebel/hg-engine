@@ -11957,13 +11957,13 @@ encounter SPECIES_SEAKING, 40, 40
 encounter SPECIES_MAGIKARP, 40, 40
 
 // swarm grass
-pokemon SPECIES_SPEAROW
+pokemon SPECIES_MAWILE
 // swarm surf
-pokemon SPECIES_GOLDEEN
+pokemon SPECIES_NONE
 // swarm good rod
-pokemon SPECIES_GOLDEEN
+pokemon SPECIES_NONE
 // swarm super rod
-pokemon SPECIES_MAGIKARP
+pokemon SPECIES_NONE
 
 .close
 
@@ -13517,13 +13517,13 @@ encounter SPECIES_POLIWAG, 40, 40
 encounter SPECIES_MAGIKARP, 40, 40
 
 // swarm grass
-pokemon SPECIES_RATTATA
+pokemon SPECIES_GULPIN
 // swarm surf
-pokemon SPECIES_POLIWAG
+pokemon SPECIES_NONE
 // swarm good rod
-pokemon SPECIES_POLIWAG
+pokemon SPECIES_NONE
 // swarm super rod
-pokemon SPECIES_MAGIKARP
+pokemon SPECIES_NONE
 
 .close
 
@@ -13621,13 +13621,13 @@ encounter SPECIES_SEAKING, 40, 40
 encounter SPECIES_MAGIKARP, 40, 40
 
 // swarm grass
-pokemon SPECIES_MAWILE
+pokemon SPECIES_BELLSPROUT
 // swarm surf
-pokemon SPECIES_NONE
+pokemon SPECIES_GOLDEEN
 // swarm good rod
-pokemon SPECIES_NONE
+pokemon SPECIES_GOLDEEN
 // swarm super rod
-pokemon SPECIES_NONE
+pokemon SPECIES_MAGIKARP
 
 .close
 
